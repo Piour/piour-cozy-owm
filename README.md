@@ -1,3 +1,6 @@
+Please visit : https://github.com/pierrerousseau/owm for the updated version of this app.
+
+
 # Open Weather Map application
 
 Weather application based on the OpenWeather Map API
